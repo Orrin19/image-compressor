@@ -1,0 +1,4 @@
+**/__pycache__
+**/.pylintrc
+**/*.zip
+example.py
